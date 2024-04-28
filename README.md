@@ -9,3 +9,9 @@ These dotfiles cover the configuration of a few tools I use,
 - [neovim](https://github.com/neovim/neovim)
   - [packer](https://github.com/wbthomason/packer.nvim)
 - git aliases
+
+## Linux
+
+When you inevitably reinstall Linux again, remember to do these things,
+
+1. Run the [https://github.com/AsahiLinux/widevine-installer](widevine installer). Also available from `dnf`.
