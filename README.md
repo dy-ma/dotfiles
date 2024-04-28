@@ -10,6 +10,8 @@ These dotfiles cover the configuration of a few tools I use,
   - [packer](https://github.com/wbthomason/packer.nvim)
 - git aliases
 
+Guide to reinstalling: [Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
+
 ## Linux
 
 When you inevitably reinstall Linux again, remember to do these things,
