@@ -17,3 +17,5 @@ Guide to reinstalling: [Atlassian](https://www.atlassian.com/git/tutorials/dotfi
 When you inevitably reinstall Linux again, remember to do these things,
 
 1. Run the [https://github.com/AsahiLinux/widevine-installer](widevine installer). Also available from `dnf`.
+2. Download a Hack Nerd Font for Icons
+3. Download ZSH and Oh-My-Zsh before loading config
