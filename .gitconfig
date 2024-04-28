@@ -6,6 +6,10 @@
 	helper = !/usr/bin/gh auth git-credential
 [alias]
 	s = status
+    a = add
 	aa = add -v -A
 	cm = commit -m
 	rs = restore --staged
+[user]
+	email = dylanmouang@example.com
+	name = dyma
