@@ -99,21 +99,17 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#
+
 # My custom function for cd + ls
 function cl() {
 	cd $1;
 	ls;
 }
-#
 
+# Add config alias
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
-# Adding neofetch
 neofetch
-#
-# Adding Cargo binaries to zsh
-path+=('/home/dyma/.cargo/bin')
 
 # Adding Go
 path+=('/usr/local/go/bin')

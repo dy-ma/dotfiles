@@ -37,7 +37,7 @@ return require('packer').startup(function(use)
 		as = 'gruvbox'
 	})
 
-    -- auto closing braces
+   -- auto closing braces
     use('m4xshen/autoclose.nvim')
 
 	use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
