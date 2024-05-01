@@ -114,3 +114,4 @@ neofetch
 # Adding Go
 path+=('/usr/local/go/bin')
 export PATH
+
