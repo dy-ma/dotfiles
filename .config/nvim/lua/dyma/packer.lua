@@ -37,6 +37,14 @@ return require('packer').startup(function(use)
 		as = 'gruvbox'
 	})
 
+    -- commenting
+    use {
+        'numToStr/Comment.nvim',
+        config = function()
+            require('Comment').setup()
+        end
+    }
+
    -- auto closing braces
     use('m4xshen/autoclose.nvim')
 
