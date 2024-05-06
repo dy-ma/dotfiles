@@ -109,9 +109,11 @@ function cl() {
 # Add config alias
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
-neofetch
+fastfetch -c paleofetch.jsonc --logo asahi
 
 # Adding Go
 path+=('/usr/local/go/bin')
 export PATH
 
+# Adding color to ripgrep when piped into less
+alias rgc="rg --color=always"
