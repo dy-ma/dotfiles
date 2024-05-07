@@ -23,4 +23,5 @@ When you inevitably reinstall Linux again, remember to do these things,
 5. Install [Input remapper](https://github.com/sezanzeb/input-remapper) to map mouse side buttons.
 6. Install neovim
 7. Install tmux
-8. Follow the [guide](https://www.atlassian.com/git/tutorials/dotfiles) to pull dotfiles and set up bare config.
+8. Install [compat-lua-devel](https://github.com/vhyrro/luarocks.nvim) for luarocks.nvim
+9. Follow the [guide](https://www.atlassian.com/git/tutorials/dotfiles) to pull dotfiles and set up bare config.
