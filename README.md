@@ -7,7 +7,7 @@ These dotfiles cover the configuration of a few tools I use,
   - Set to use [asahi](https://asahilinux.org/) logo
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [neovim](https://github.com/neovim/neovim)
-  - [packer](https://github.com/wbthomason/packer.nvim)
+  - [lazy](https://github.com/folke/lazy.nvim)
 - git aliases
 
 Guide to reinstalling: [Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
