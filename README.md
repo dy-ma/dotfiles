@@ -16,6 +16,11 @@ Guide to reinstalling: [Atlassian](https://www.atlassian.com/git/tutorials/dotfi
 
 When you inevitably reinstall Linux again, remember to do these things,
 
-1. Run the [https://github.com/AsahiLinux/widevine-installer](widevine installer). Also available from `dnf`.
-2. Download a Hack Nerd Font for Icons
-3. Download ZSH and Oh-My-Zsh before loading config
+1. Run the [widevine installer](https://github.com/AsahiLinux/widevine-installer). Also available from `dnf`.
+2. Install a Hack Nerd Font for Icons.
+3. Install ZSH and Oh-My-Zsh before loading config.
+4. Install [fastfetch](https://github.com/fastfetch-cli/fastfetch) (Called in .zshrc)
+5. Install [Input remapper](https://github.com/sezanzeb/input-remapper) to map mouse side buttons.
+6. Install neovim
+7. Install tmux
+8. Follow the [guide](https://www.atlassian.com/git/tutorials/dotfiles) to pull dotfiles and set up bare config.
