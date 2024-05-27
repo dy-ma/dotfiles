@@ -6,9 +6,10 @@ These dotfiles cover the configuration of a few tools I use,
 - [neofetch](https://github.com/dylanaraps/neofetch)
   - Set to use [asahi](https://asahilinux.org/) logo
 - [tmux](https://github.com/tmux/tmux/wiki)
-- [neovim](https://github.com/neovim/neovim)
   - [lazy](https://github.com/folke/lazy.nvim)
 - git aliases
+
+Note: Neovim config moved to a standalone [repo](https://github.com/dy-ma/nvim).
 
 Guide to reinstalling: [Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
 
